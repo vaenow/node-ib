@@ -1,7 +1,7 @@
 {
   "name": "c2s-ib",
   "description": "FORK Interactive Brokers TWS (or IB Gateway) API client library for Node.js",
-  "version": "0.2.6.1",
+  "version": "0.2.61",
   "license": "MIT",
   "author": {
     "name": "Pilwon Huh",
