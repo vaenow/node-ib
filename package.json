@@ -1,6 +1,6 @@
 {
-  "name": "ib",
-  "description": "Interactive Brokers TWS (or IB Gateway) API client library for Node.js",
+  "name": "c2s-ib",
+  "description": "FORK Interactive Brokers TWS (or IB Gateway) API client library for Node.js",
   "version": "0.2.6",
   "license": "MIT",
   "author": {
